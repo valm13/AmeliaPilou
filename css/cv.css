@@ -102,3 +102,10 @@ experience { margin-bottom: 15px; }
 #langues .langue, #langues .niveau{ font-size: 1.3em; float: left; }
 #langues .langue { padding-top: 3px; }
 #langues .niveau{ float: right; }
+
+/******************************************
+* Passions
+******************************************/
+.passion{ color: #fff; display: inline-block; margin-right: 5px; margin-bottom: 5px; padding: 5px 5px 5px 5px; background: #000; position: relative;
+ font-size: 1.2em; border-radius: 10px; }
+.passion .glyphicon { font-size: 0.7em; }
